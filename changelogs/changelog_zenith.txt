@@ -1,0 +1,12 @@
+## **Source Changelog** ##
+* Disabled Some Broken Pixel Features
+* Redesigned Settings UI
+* Added Force LTE_CA Option
+* Implemented Cutout Force Full Screen
+* Brought back good ol' circle battery style
+* Restored Wifi and Cellular QS Tile
+* Animated Volume Icon When Playing Media
+* Improved Scrolling Cache
+* Updated Advanced Reboot Icons
+* Merged January 2025 Security Patch
+* Auto wipe package_cache on dirty flash (Should fix issue where users might faced weird setting overlapping texts after they done dirty flash) & More
