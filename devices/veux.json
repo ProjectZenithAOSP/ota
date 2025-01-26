@@ -1,0 +1,24 @@
+{
+        "response": [
+                {
+                        "maintainer": "アムリタ",
+                        "oem": "Xiaomi",
+                        "device": "Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G",
+                        "codename": "veux",
+                        "version": "v1.0-octopus",
+                        "filename": "ProjectZenith-v1.0-octopus-veux-OFFICIAL-20250126-1621.zip",
+                        "download": "https://sourceforge.net/projects/project-zenith/files/veux/v1.0/ProjectZenith-v1.0-octopus-veux-OFFICIAL-20250126-1621.zip/download",
+                        "timestamp": 1737908486,
+                        "md5": "be587afbac05487e10cb8e30ade9c35a",
+                        "sha256": "d4f80bdd7e73fd57df2bcf033c5a231a5271197ea0070e13762f999a735bbbdf",
+                        "size": 1974429833,
+                        "buildtype": "Monthly",
+                        "is_active":"yes",
+                        "forum": "https://xdaforums.com/t/",
+                        "telegram": "amrito_kun"
+                }
+        ]
+}
+
+
+

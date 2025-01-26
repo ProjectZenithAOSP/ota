@@ -1,0 +1,23 @@
+` ` `
+Device: Redmi Note 11 Pro + 5G / Poco X4 Pro 5G 
+Device code name : veux/peux
+Device maintainer: Amrito Das
+` ` `
+
+# Notes:
+- Let the rom settle
+- BB improves after 1-2 cycles
+- No Heating issues were found in testing
+- Clean flash is recommended
+
+# v1.0-Octopus
+• Initial official build
+• Play Integrity passes out of the box.
+• Fixed Random SystemUI crashes especially which occurs while listening music and call arrives.
+• Fixed Usb detection which was greyed out in previous builds.
+• Fixed whatsapp video call rear cam freeze issue.
+• Added props to improve battery backup.
+• Tried To Fix whatsapp video call lags
+• Shipped With Paimon Kernel
+• Underhood Optimization
+
